@@ -22,7 +22,7 @@ Work experience
   
 Honors and Awards
 ======
-* Regional Speed Programming Compitition - 2022 - 4th position
+* Regional Speed Programming Compitition - 2022 - 4th position <a href="https://www.w3schools.com/">(credentials)</a>
 * Huawei Seeds for the future - 2022
 * Regional Mathematics Compitition - 2021
 * Space Week Quiz Compitition - 2019
