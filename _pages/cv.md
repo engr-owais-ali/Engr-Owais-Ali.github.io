@@ -30,6 +30,7 @@ Honors and Awards
   
 Activities & certifications
 ======
+* Ambassador for IEEE PSYWSC 15th Tech Event(Currently)
 * Hacktoberfest 2022 <a href="https://dev.to/engrowaisali">(Credential)</a>
 * Penetration Testing, Incident Response and Forensics <a href="https://www.coursera.org/account/accomplishments/certificate/ZJJ8UT33YEU7">(Credential)</a>
 * Convolutional Neural Networks in TensorFlow <a href="https://www.coursera.org/account/accomplishments/certificate/TAW7VMFQNK4K">(Credential)</a>
