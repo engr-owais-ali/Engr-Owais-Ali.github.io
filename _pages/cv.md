@@ -15,9 +15,11 @@ Education
 
 Work experience
 ======
-* Sep 2022 - Now : Web Manager
+* Sep 2022 - Now : Web Developer
   * Phprogram.com
-  * Duties included: Web Management
+  * Duties included: 
+  *     Componenet Integration
+  *     Web Management
 
   
 Honors and Awards
