@@ -24,10 +24,11 @@ Work experience
   
 Honors and Awards
 ======
+* •	Engineering CapStone Expo 2022 <a href="/images/CPSTN.jpeg">(credentials)</a>
 * Regional Speed Programming Compitition - 2022 - 4th position <a href="/images/SPC.jpeg">(credentials)</a>
 * Huawei Seeds for the future - 2022 <a href="/images/HSF.jpeg">(credentials)</a>
-* Regional Mathematics Compitition - 2021
-* Space Week Quiz Compitition - 2019
+* Regional Mathematics Compitition - 2021 <a href="/images/Math.jpeg">(credentials)</a>
+* Space Week Quiz Compitition - 2019 <a href="/images/SPX.jpeg">(credentials)</a>
 
   
 Activities & certifications
